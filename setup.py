@@ -27,7 +27,7 @@ if sys.version_info[0] < 3:
 
 packages = [
     'TejToolAPI',
-    'TejTOolAPI.tables',
+    'TejToolAPI.tables',
 ]
 
 this_directionary = Path(__file__).parent
