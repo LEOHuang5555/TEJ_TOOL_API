@@ -98,8 +98,6 @@ TejToolAPI.search_table(['r404'])
 
 **參數:**
 
-
-
 | Parameters | Is Required | Data Type | Descriptions |
 |------------|-------------|-----------|--------------|
 | columns    | Required    | list      | 欄位代碼，可參考[TEJAPI_量化投資資料庫](http://10.10.10.66/datatables.html?db=TWN&t=%E5%8F%B0%E7%81%A3%E8%B3%87%E6%96%99%E5%BA%AB#G%E9%87%8F%E5%8C%96%E6%8A%95%E8%B3%87) |
