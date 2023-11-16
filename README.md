@@ -53,6 +53,7 @@ TejToolAPI.get_internal_code(['稅前淨利成長率', 'Gross_Profit_Loss_from_O
 output: ['r404', 'gm']
 ```
 <br>
+
 **參數:**
 
 | Parameters | Is Required | Data Type | Descriptions |
@@ -94,6 +95,7 @@ TejToolAPI.search_table(['r404'])
 | r404    | fin_auditor    |
 
 <br>
+
 **參數:**
 
 
